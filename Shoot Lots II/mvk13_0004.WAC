@@ -1,0 +1,325 @@
+
+if never() then
+	rain(75)
+	ssn2ssn(1212,66712)
+	ssn2ssn(1213,66742)
+	ssn2ssn(1214,66747)
+	ssn2ssn(1215,66711)
+endif
+
+if never() and past(5) then
+	consol("Heads up...")
+	ssnuse(1212)
+	ssnuse(1213)
+	ssnuse(1214)
+	ssnuse(1215)
+endif
+
+if never() and past(15) then
+	farflash
+
+	ssntowp(1240,1)
+	ssntowp(1242,1)
+	ssntowp(1244,1)
+	ssntowp(1246,1)
+	ssntowp(1248,1)
+	ssntowp(1247,1)
+	ssntowp(1245,1)
+	ssntowp(1243,1)
+	ssntowp(1241,1) 
+
+	ssntowp(1250,2)
+	ssntowp(1252,2)
+	ssntowp(1254,2)
+	ssntowp(1256,2)
+	ssntowp(1257,2)
+	ssntowp(1255,2)
+	ssntowp(1253,2)
+	ssntowp(1251,2)
+	ssntowp(1249,2)
+
+	ssntowp(1258,3)
+	ssntowp(1260,3)
+	ssntowp(1262,3)
+	ssntowp(1264,3)
+	ssntowp(1266,3)
+	ssntowp(1265,3)
+	ssntowp(1263,3)
+	ssntowp(1261,3)
+	ssntowp(1259,3)
+
+	ssntowp(1268,4)
+	ssntowp(1270,4)
+	ssntowp(1272,4)
+	ssntowp(1271,4)
+	ssntowp(1269,4)
+	ssntowp(1267,4)
+endif
+
+if never() then
+  set(V0,0)
+endif
+if past(30) and elapse(15) then
+  consol#("Kills: ",V0)
+endif
+if ge(V0, 350) then
+  win(1)
+endif
+if never() then
+  set(V100,0)
+  set(V101,0)
+  set(V102,0)
+  set(V103,0)
+  set(V104,0)
+  set(V105,0)
+  set(V106,0)
+  set(V107,0)
+  set(V108,0)
+  set(V109,0)
+  set(V110,0)
+  set(V111,0)
+  set(V112,0)
+  set(V113,0)
+  set(V114,0)
+  set(V115,0)
+  set(V116,0)
+  set(V117,0)
+  set(V118,0)
+  set(V119,0)
+  set(V120,0)
+  set(V121,0)
+  set(V122,0)
+  set(V123,0)
+  set(V124,0)
+  set(V125,0)
+  set(V126,0)
+  set(V127,0)
+  set(V128,0)
+  set(V129,0)
+  set(V130,0)
+  set(V131,0)
+endif
+if ssndead(1240) and eq(V100,0) then
+  set(V100,1)
+  inc(V0)
+endif
+if ssnalive(1240) and eq(V100,1) then
+  set(V100,0)
+endif
+if ssndead(1241) and eq(V101,0) then
+  set(V101,1)
+  inc(V0)
+endif
+if ssnalive(1241) and eq(V101,1) then
+  set(V101,0)
+endif
+if ssndead(1242) and eq(V102,0) then
+  set(V102,1)
+  inc(V0)
+endif
+if ssnalive(1242) and eq(V102,1) then
+  set(V102,0)
+endif
+if ssndead(1243) and eq(V103,0) then
+  set(V103,1)
+  inc(V0)
+endif
+if ssnalive(1243) and eq(V103,1) then
+  set(V103,0)
+endif
+if ssndead(1244) and eq(V104,0) then
+  set(V104,1)
+  inc(V0)
+endif
+if ssnalive(1244) and eq(V104,1) then
+  set(V104,0)
+endif
+if ssndead(1245) and eq(V105,0) then
+  set(V105,1)
+  inc(V0)
+endif
+if ssnalive(1245) and eq(V105,1) then
+  set(V105,0)
+endif
+if ssndead(1246) and eq(V106,0) then
+  set(V106,1)
+  inc(V0)
+endif
+if ssnalive(1246) and eq(V106,1) then
+  set(V106,0)
+endif
+if ssndead(1247) and eq(V107,0) then
+  set(V107,1)
+  inc(V0)
+endif
+if ssnalive(1247) and eq(V107,1) then
+  set(V107,0)
+endif
+if ssndead(1248) and eq(V108,0) then
+  set(V108,1)
+  inc(V0)
+endif
+if ssnalive(1248) and eq(V108,1) then
+  set(V108,0)
+endif
+if ssndead(1249) and eq(V109,0) then
+  set(V109,1)
+  inc(V0)
+endif
+if ssnalive(1249) and eq(V109,1) then
+  set(V109,0)
+endif
+if ssndead(1250) and eq(V110,0) then
+  set(V110,1)
+  inc(V0)
+endif
+if ssnalive(1250) and eq(V110,1) then
+  set(V110,0)
+endif
+if ssndead(1251) and eq(V111,0) then
+  set(V111,1)
+  inc(V0)
+endif
+if ssnalive(1251) and eq(V111,1) then
+  set(V111,0)
+endif
+if ssndead(1252) and eq(V112,0) then
+  set(V112,1)
+  inc(V0)
+endif
+if ssnalive(1252) and eq(V112,1) then
+  set(V112,0)
+endif
+if ssndead(1253) and eq(V113,0) then
+  set(V113,1)
+  inc(V0)
+endif
+if ssnalive(1253) and eq(V113,1) then
+  set(V113,0)
+endif
+if ssndead(1254) and eq(V114,0) then
+  set(V114,1)
+  inc(V0)
+endif
+if ssnalive(1254) and eq(V114,1) then
+  set(V114,0)
+endif
+if ssndead(1255) and eq(V115,0) then
+  set(V115,1)
+  inc(V0)
+endif
+if ssnalive(1255) and eq(V115,1) then
+  set(V115,0)
+endif
+if ssndead(1256) and eq(V116,0) then
+  set(V116,1)
+  inc(V0)
+endif
+if ssnalive(1256) and eq(V116,1) then
+  set(V116,0)
+endif
+if ssndead(1257) and eq(V117,0) then
+  set(V117,1)
+  inc(V0)
+endif
+if ssnalive(1257) and eq(V117,1) then
+  set(V117,0)
+endif
+if ssndead(1258) and eq(V118,0) then
+  set(V118,1)
+  inc(V0)
+endif
+if ssnalive(1258) and eq(V118,1) then
+  set(V118,0)
+endif
+if ssndead(1259) and eq(V119,0) then
+  set(V119,1)
+  inc(V0)
+endif
+if ssnalive(1259) and eq(V119,1) then
+  set(V119,0)
+endif
+if ssndead(1260) and eq(V120,0) then
+  set(V120,1)
+  inc(V0)
+endif
+if ssnalive(1260) and eq(V120,1) then
+  set(V120,0)
+endif
+if ssndead(1261) and eq(V121,0) then
+  set(V121,1)
+  inc(V0)
+endif
+if ssnalive(1261) and eq(V121,1) then
+  set(V121,0)
+endif
+if ssndead(1262) and eq(V122,0) then
+  set(V122,1)
+  inc(V0)
+endif
+if ssnalive(1262) and eq(V122,1) then
+  set(V122,0)
+endif
+if ssndead(1263) and eq(V123,0) then
+  set(V123,1)
+  inc(V0)
+endif
+if ssnalive(1263) and eq(V123,1) then
+  set(V123,0)
+endif
+if ssndead(1264) and eq(V124,0) then
+  set(V124,1)
+  inc(V0)
+endif
+if ssnalive(1264) and eq(V124,1) then
+  set(V124,0)
+endif
+if ssndead(1265) and eq(V125,0) then
+  set(V125,1)
+  inc(V0)
+endif
+if ssnalive(1265) and eq(V125,1) then
+  set(V125,0)
+endif
+if ssndead(1266) and eq(V126,0) then
+  set(V126,1)
+  inc(V0)
+endif
+if ssnalive(1266) and eq(V126,1) then
+  set(V126,0)
+endif
+if ssndead(1267) and eq(V127,0) then
+  set(V127,1)
+  inc(V0)
+endif
+if ssnalive(1267) and eq(V127,1) then
+  set(V127,0)
+endif
+if ssndead(1268) and eq(V128,0) then
+  set(V128,1)
+  inc(V0)
+endif
+if ssnalive(1268) and eq(V128,1) then
+  set(V128,0)
+endif
+if ssndead(1269) and eq(V129,0) then
+  set(V129,1)
+  inc(V0)
+endif
+if ssnalive(1269) and eq(V129,1) then
+  set(V129,0)
+endif
+if ssndead(1270) and eq(V130,0) then
+  set(V130,1)
+  inc(V0)
+endif
+if ssnalive(1270) and eq(V130,1) then
+  set(V130,0)
+endif
+if ssndead(1271) and eq(V131,0) then
+  set(V131,1)
+  inc(V0)
+endif
+if ssnalive(1271) and eq(V131,1) then
+  set(V131,0)
+endif

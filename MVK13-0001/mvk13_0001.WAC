@@ -1,0 +1,10 @@
+
+if ssndead(132137) and never() then
+  removessn(132397)
+  consol("The obelisk is gone")
+endif
+
+if never() then
+  ssntossn(1113,66918)
+  ssntowp(1377,1)
+endif
