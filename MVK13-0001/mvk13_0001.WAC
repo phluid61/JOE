@@ -1,7 +1,27 @@
 
 if ssndead(132137) and never() then
+  killssn(132528)
   removessn(132397)
+endif
+if never() and chain(2) then
+  removessn(132528)
   consol("The obelisk is gone")
+endif
+
+if ssndead(132257) and never() then
+  consol("Weapon crates 1 destroyed")
+endif
+if ssndead(132532) and never() then
+  consol("Weapon crates 2 destroyed")
+endif
+if ssndead(132257) and ssndead(132532) and never() then
+  set(V10,1)
+endif
+if chain(5) then
+  consol("Objectives completed")
+endif
+if chain(5) then
+  win(1)
 endif
 
 if never() then
@@ -12,11 +32,19 @@ if never() then
   ssn2ssn(1449,66983)
   ssn2ssn(1450,66983)
   ssn2ssn(1451,66983)
+  ssn2ssn(1466,67004)
+  ssn2ssn(1467,67004)
   ssntowp(1377,1)
   ssntowp(1383,2)
   ssntowp(1395,2)
   ssntowp(1396,2)
-  ssntowp(1799,3)
+  ssntowp(1399,3)
+  ssntowp(1512,6)
+  ssntowp(1514,6)
+  ssntowp(1516,6)
+  ssntowp(1517,6)
+  ssntowp(1515,6)
+  ssntowp(1513,6)
 endif
 if never() and past(5) then
   ssnuse(1113)
@@ -26,12 +54,14 @@ if never() and past(5) then
   ssnuse(1450)
   ssnuse(1451)
   ssunse(1449)
+  ssunse(1466)
+  ssunse(1467)
 endif
 if never() and past(10) then
-  ssntowp(1448,4)
-  ssntowp(1449,4)
-  ssntowp(1450,4)
-  ssntowp(1451,4)
+  ssnpspd(67004,10)
+  ssncspd(67004,20)
+  ssntowp(66983,4)
+  ssntowp(67004,5)
 endif
 
 if ssndead(66980) and never() then
@@ -39,4 +69,18 @@ if ssndead(66980) and never() then
 endif
 if chain(10) then
   removessn(66980)
+endif
+
+if ssndead(66983) and never() then
+  set(V1,1)
+endif
+if chain(10) then
+  removessn(66983)
+endif
+
+if ssndead(67004) and never() then
+  set(V2,1)
+endif
+if chain(10) then
+  removessn(67004)
 endif
