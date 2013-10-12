@@ -2,6 +2,7 @@
 if ssndead(132137) and never() then
   killssn(132528)
   removessn(132397)
+  removessn(132636)
 endif
 if never() and chain(2) then
   removessn(132528)
