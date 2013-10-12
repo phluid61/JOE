@@ -1619,26 +1619,201 @@
 		<MIN_ATTACK>0</MIN_ATTACK>
 		<MAX_ATTACK>200</MAX_ATTACK>
 	</AI>
+	<AI>
+		<ID>1519</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (34)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (34)</DESCRIPTION>
+		<POSITION>
+			<X>1475.003662</X>
+			<Z>-596.998230</Z>
+			<THETA>-5.959123</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>200</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1520</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (35)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (35)</DESCRIPTION>
+		<POSITION>
+			<X>1450.572632</X>
+			<Z>-595.277344</Z>
+			<THETA>-17.044674</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>200</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1521</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (6)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (6)</DESCRIPTION>
+		<POSITION>
+			<X>1354.579590</X>
+			<Z>-736.325012</Z>
+			<THETA>-60.021839</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>250</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1522</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (37)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (37)</DESCRIPTION>
+		<POSITION>
+			<X>1279.938599</X>
+			<Z>-681.224854</Z>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>95</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>250</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1527</ID>
+		<NAME>[Eindo05] -- Indonesian Soldier #5 Female with Dragunov (1)</NAME>
+		<TYPE_ID>2061</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo05] -- Indonesian Soldier #5 Female with Dragunov (1)</DESCRIPTION>
+		<POSITION>
+			<X>1203.723999</X>
+			<Y>8.041046</Y>
+			<Z>-730.262329</Z>
+			<THETA>0.024241</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>100</ACCURACY1>
+		<ACCURACY2>120</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>300</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>250</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1534</ID>
+		<NAME>[Eindo07] -- Indonesian Soldier #7 with AK74 (5)</NAME>
+		<TYPE_ID>2063</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo07] -- Indonesian Soldier #7 with AK74 (5)</DESCRIPTION>
+		<POSITION>
+			<X>1235.361328</X>
+			<Y>4.635284</Y>
+			<Z>-713.294495</Z>
+			<THETA>-179.975677</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>250</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1536</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (38)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (38)</DESCRIPTION>
+		<POSITION>
+			<X>1240.231079</X>
+			<Y>1.084061</Y>
+			<Z>-713.186829</Z>
+			<THETA>-179.978760</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>220</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>190</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1537</ID>
+		<NAME>[Eindo02] -- Indonesian Soldier #2 with AK47 (39)</NAME>
+		<TYPE_ID>1799</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo02] -- Indonesian Soldier #2 with AK47 (39)</DESCRIPTION>
+		<POSITION>
+			<X>1238.345215</X>
+			<Y>4.804962</Y>
+			<Z>-707.505127</Z>
+			<THETA>-89.982948</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>75</ACCURACY1>
+		<ACCURACY2>100</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>250</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>200</MAX_ATTACK>
+	</AI>
+	<AI>
+		<ID>1538</ID>
+		<NAME>[Eindo12] -- Indonesian Soldier #12 Male with Dragunov (5)</NAME>
+		<TYPE_ID>2087</TYPE_ID>
+		<UNSEL_COLOR>FF00</UNSEL_COLOR>
+		<DESCRIPTION>[Eindo12] -- Indonesian Soldier #12 Male with Dragunov (5)</DESCRIPTION>
+		<POSITION>
+			<X>1191.715332</X>
+			<Y>11.678131</Y>
+			<Z>-768.740784</Z>
+			<THETA>-89.911858</THETA>
+		</POSITION>
+		<TEAM>2</TEAM>
+		<ACCURACY1>95</ACCURACY1>
+		<ACCURACY2>120</ACCURACY2>
+		<FIRE_TIMER>5</FIRE_TIMER>
+		<VISION_RANGE>300</VISION_RANGE>
+		<MIN_ATTACK>0</MIN_ATTACK>
+		<MAX_ATTACK>250</MAX_ATTACK>
+	</AI>
 	<TERRAIN>
 		<TERRAIN_FILE>I7.trn</TERRAIN_FILE>
-		<ENVIRONMENT_FILE>FULL_03.env</ENVIRONMENT_FILE>
+		<ENVIRONMENT_FILE>FULL_09.env</ENVIRONMENT_FILE>
 		<WATER_LEVEL>12.000000</WATER_LEVEL>
-		<FOG_DISTANCE>1000.000000</FOG_DISTANCE>
-		<FOG_TYPE>3</FOG_TYPE>
-		<FOG_COLOR>A0A0C</FOG_COLOR>
+		<FOG_DISTANCE>800.000000</FOG_DISTANCE>
+		<FOG_TYPE>1</FOG_TYPE>
+		<FOG_COLOR>E1016</FOG_COLOR>
 		<SKY_HEIGHT>135.000000</SKY_HEIGHT>
 		<SKY_SPEED>0.234375</SKY_SPEED>
-		<SKYFOG_COLOR>8080C</SKYFOG_COLOR>
-		<TIME_OF_DAY>10000</TIME_OF_DAY>
-		<TIME_OF_DAY_RATE>4B</TIME_OF_DAY_RATE>
+		<SKYFOG_COLOR>C0E16</SKYFOG_COLOR>
+		<TIME_OF_DAY>170000</TIME_OF_DAY>
+		<TIME_OF_DAY_RATE>0</TIME_OF_DAY_RATE>
 	</TERRAIN>
 	<GUI_VIEW>
 		<CAMERA>
 			<INDEX>0</INDEX>
 			<POSITION>
-				<X>340.522614</X>
-				<Y>-765.090591</Y>
-				<Z>-1255.883072</Z>
+				<X>57.006363</X>
+				<Y>-739.276001</Y>
+				<Z>-1352.920685</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>0</MODE>
@@ -1648,11 +1823,11 @@
 		<CAMERA>
 			<INDEX>1</INDEX>
 			<POSITION>
-				<X>30.198959</X>
-				<Y>-796.628998</Y>
-				<Z>-1225.082092</Z>
-				<PHI>-6.000029</PHI>
-				<THETA>-112.000025</THETA>
+				<X>16.756042</X>
+				<Y>-742.383713</Y>
+				<Z>-1350.072800</Z>
+				<PHI>-25.000032</PHI>
+				<THETA>164.999972</THETA>
 			</POSITION>
 			<TYPE>1</TYPE>
 			<MODE>6</MODE>
@@ -1662,9 +1837,9 @@
 		<CAMERA>
 			<INDEX>2</INDEX>
 			<POSITION>
-				<X>340.522614</X>
-				<Y>-765.090591</Y>
-				<Z>-1255.883072</Z>
+				<X>57.006363</X>
+				<Y>-739.276001</Y>
+				<Z>-1352.920685</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>1</MODE>
@@ -1674,9 +1849,9 @@
 		<CAMERA>
 			<INDEX>3</INDEX>
 			<POSITION>
-				<X>340.522614</X>
-				<Y>-765.090591</Y>
-				<Z>-1255.883072</Z>
+				<X>57.006363</X>
+				<Y>-739.276001</Y>
+				<Z>-1352.920685</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>2</MODE>
@@ -2052,8 +2227,8 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (23)</DESCRIPTION>
 		<POSITION>
-			<X>1287.350342</X>
-			<Z>-855.631836</Z>
+			<X>1291.015015</X>
+			<Z>-856.581909</Z>
 			<THETA>60.184246</THETA>
 		</POSITION>
 		<RADIUS>2.000000</RADIUS>
@@ -2078,7 +2253,7 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (25)</DESCRIPTION>
 		<POSITION>
-			<X>1260.552002</X>
+			<X>1262.587891</X>
 			<Z>-849.002747</Z>
 			<THETA>180.000000</THETA>
 		</POSITION>
@@ -2104,9 +2279,9 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (27)</DESCRIPTION>
 		<POSITION>
-			<X>1291.745117</X>
-			<Z>-897.730591</Z>
-			<THETA>270.000000</THETA>
+			<X>1292.288086</X>
+			<Z>-895.015991</Z>
+			<THETA>-90.000000</THETA>
 		</POSITION>
 		<RADIUS>2.000000</RADIUS>
 	</MARKER>
@@ -2117,8 +2292,8 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (28)</DESCRIPTION>
 		<POSITION>
-			<X>1325.825806</X>
-			<Z>-898.749146</Z>
+			<X>1323.976440</X>
+			<Z>-898.640381</Z>
 			<THETA>-45.000000</THETA>
 		</POSITION>
 		<RADIUS>2.000000</RADIUS>
@@ -2130,8 +2305,8 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (29)</DESCRIPTION>
 		<POSITION>
-			<X>1335.222656</X>
-			<Z>-888.615356</Z>
+			<X>1333.482056</X>
+			<Z>-889.485596</Z>
 			<THETA>1.000000</THETA>
 		</POSITION>
 		<RADIUS>2.000000</RADIUS>
@@ -2143,8 +2318,8 @@
 		<UNSEL_COLOR>FF</UNSEL_COLOR>
 		<DESCRIPTION>waypoint (30)</DESCRIPTION>
 		<POSITION>
-			<X>1334.847290</X>
-			<Z>-822.986450</Z>
+			<X>1334.101196</X>
+			<Z>-828.209351</Z>
 			<THETA>90.000000</THETA>
 		</POSITION>
 		<RADIUS>2.000000</RADIUS>
@@ -2161,7 +2336,6 @@
 			<Z>-875.949829</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198107</ID>
@@ -2175,7 +2349,6 @@
 			<Z>-966.634949</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198108</ID>
@@ -2189,7 +2362,6 @@
 			<Z>-935.364197</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198109</ID>
@@ -2203,7 +2375,6 @@
 			<Z>-934.669312</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198110</ID>
@@ -2217,7 +2388,6 @@
 			<Z>-961.423157</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198111</ID>
@@ -2231,7 +2401,6 @@
 			<Z>-936.059143</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198112</ID>
@@ -2245,7 +2414,6 @@
 			<Z>-912.779785</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198113</ID>
@@ -2259,7 +2427,6 @@
 			<Z>-887.068298</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198114</ID>
@@ -2273,7 +2440,6 @@
 			<Z>-845.026550</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198115</ID>
@@ -2286,7 +2452,6 @@
 			<Z>-826.611511</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198116</ID>
@@ -2299,7 +2464,6 @@
 			<Z>-826.264099</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198117</ID>
@@ -2312,7 +2476,6 @@
 			<Z>-821.747192</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198118</ID>
@@ -2325,7 +2488,6 @@
 			<Z>-826.264587</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<MARKER>
 		<ID>198119</ID>
@@ -2339,7 +2501,6 @@
 			<Z>-871.780396</Z>
 		</POSITION>
 		<RADIUS>1.000000</RADIUS>
-		<TEAM>0.000000</TEAM>
 	</MARKER>
 	<STATIC>
 		<ID>132072</ID>
@@ -6633,6 +6794,771 @@
 			<Y>9.768814</Y>
 			<Z>-269.244446</Z>
 			<THETA>105.121712</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132595</ID>
+		<NAME>[cnet02] -- Camo Net #2 (1)</NAME>
+		<TYPE_ID>1315</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[cnet02] -- Camo Net #2 (1)</DESCRIPTION>
+		<POSITION>
+			<X>1280.179077</X>
+			<Y>-0.373184</Y>
+			<Z>-684.062134</Z>
+			<PHI>-16.000000</PHI>
+			<THETA>-164.931259</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132596</ID>
+		<NAME>[WpnCt1] -- Single wooden Weapons Crate with closed lid (1)</NAME>
+		<TYPE_ID>1565</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[WpnCt1] -- Single wooden Weapons Crate with closed lid (1)</DESCRIPTION>
+		<POSITION>
+			<X>1283.179565</X>
+			<Y>-0.067169</Y>
+			<Z>-681.669434</Z>
+			<THETA>22.563929</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132597</ID>
+		<NAME>[WpnCt1] -- Single wooden Weapons Crate with closed lid (2)</NAME>
+		<TYPE_ID>1565</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[WpnCt1] -- Single wooden Weapons Crate with closed lid (2)</DESCRIPTION>
+		<POSITION>
+			<X>1282.523071</X>
+			<Y>0.066177</Y>
+			<Z>-682.237732</Z>
+			<THETA>22.563929</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132598</ID>
+		<NAME>[wcrate4] -- Wooden Crate with Tarp</NAME>
+		<TYPE_ID>1481</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wcrate4] -- Wooden Crate with Tarp</DESCRIPTION>
+		<POSITION>
+			<X>1278.075562</X>
+			<Z>-683.911133</Z>
+			<THETA>19.868586</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132600</ID>
+		<NAME>[Cwalk] -- Chain link walkway</NAME>
+		<TYPE_ID>506</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Cwalk] -- Chain link walkway</DESCRIPTION>
+		<POSITION>
+			<X>1199.999878</X>
+			<Y>6.620255</Y>
+			<Z>-725.228149</Z>
+			<PHI>90.000000</PHI>
+			<THETA>0.058599</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132601</ID>
+		<NAME>[mladder1] -- Metal ladder #1</NAME>
+		<TYPE_ID>364</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[mladder1] -- Metal ladder #1</DESCRIPTION>
+		<POSITION>
+			<X>1203.014160</X>
+			<Y>-6.863327</Y>
+			<Z>-724.433472</Z>
+			<THETA>-179.910782</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132602</ID>
+		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<TYPE_ID>1459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<POSITION>
+			<X>1203.834717</X>
+			<Y>7.538040</Y>
+			<Z>-725.801941</Z>
+			<PHI>90.000000</PHI>
+			<THETA>90.024414</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132603</ID>
+		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<TYPE_ID>1459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<POSITION>
+			<X>1195.986206</X>
+			<Y>7.166595</Y>
+			<Z>-726.911865</Z>
+			<PHI>90.000000</PHI>
+			<THETA>90.024414</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132604</ID>
+		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<TYPE_ID>1459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<POSITION>
+			<X>1198.602295</X>
+			<Y>7.254166</Y>
+			<Z>-724.295776</Z>
+			<PHI>90.000000</PHI>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132605</ID>
+		<NAME>[wtrtwr2] -- Water tower #2</NAME>
+		<TYPE_ID>332</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wtrtwr2] -- Water tower #2</DESCRIPTION>
+		<POSITION>
+			<X>1186.543091</X>
+			<Y>-8.268921</Y>
+			<Z>-769.296021</Z>
+			<THETA>-119.927322</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132611</ID>
+		<NAME>[Lpost02] -- Weathered light post with light</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light</DESCRIPTION>
+		<POSITION>
+			<X>1292.187866</X>
+			<Z>-803.818848</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132612</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (1)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (1)</DESCRIPTION>
+		<POSITION>
+			<X>1238.769043</X>
+			<Z>-825.694275</Z>
+			<THETA>-90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132613</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (2)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (2)</DESCRIPTION>
+		<POSITION>
+			<X>1355.606445</X>
+			<Z>-816.935791</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132614</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (3)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (3)</DESCRIPTION>
+		<POSITION>
+			<X>1355.670898</X>
+			<Z>-832.093628</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132615</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (4)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (4)</DESCRIPTION>
+		<POSITION>
+			<X>1389.805786</X>
+			<Z>-850.872009</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132616</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (5)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (5)</DESCRIPTION>
+		<POSITION>
+			<X>1316.079102</X>
+			<Z>-852.484985</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132617</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (6)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (6)</DESCRIPTION>
+		<POSITION>
+			<X>1236.513184</X>
+			<Y>13.529465</Y>
+			<Z>-939.580078</Z>
+			<THETA>-89.939003</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132618</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (7)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (7)</DESCRIPTION>
+		<POSITION>
+			<X>1251.126709</X>
+			<Y>9.363770</Y>
+			<Z>-939.565186</Z>
+			<THETA>-89.939003</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132619</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (7)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (7)</DESCRIPTION>
+		<POSITION>
+			<X>1212.269287</X>
+			<Y>13.529297</Y>
+			<Z>-970.638855</Z>
+			<THETA>-89.939003</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132620</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (7)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (7)</DESCRIPTION>
+		<POSITION>
+			<X>1243.927979</X>
+			<Y>13.521042</Y>
+			<Z>-970.559326</Z>
+			<THETA>-89.939003</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132621</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (10)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (10)</DESCRIPTION>
+		<POSITION>
+			<X>1286.196167</X>
+			<Z>-936.770813</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132622</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (11)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (11)</DESCRIPTION>
+		<POSITION>
+			<X>1944.666260</X>
+			<Z>-285.634094</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132623</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (12)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (12)</DESCRIPTION>
+		<POSITION>
+			<X>1916.857056</X>
+			<Z>-317.124512</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132624</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (13)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (13)</DESCRIPTION>
+		<POSITION>
+			<X>1877.832520</X>
+			<Z>-355.784760</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132625</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (14)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (14)</DESCRIPTION>
+		<POSITION>
+			<X>1877.884521</X>
+			<Z>-372.539307</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132626</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (15)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (15)</DESCRIPTION>
+		<POSITION>
+			<X>1777.434204</X>
+			<Y>5.801727</Y>
+			<Z>-255.679642</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132627</ID>
+		<NAME>[Lpost02] -- Weathered light post with light (16)</NAME>
+		<TYPE_ID>2116</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Lpost02] -- Weathered light post with light (16)</DESCRIPTION>
+		<POSITION>
+			<X>1860.194824</X>
+			<Z>-295.914276</Z>
+			<THETA>90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132628</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section</DESCRIPTION>
+		<POSITION>
+			<X>1941.476440</X>
+			<Z>-439.771149</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132629</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (1)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (1)</DESCRIPTION>
+		<POSITION>
+			<X>1931.430908</X>
+			<Z>-434.452942</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132630</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (2)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (2)</DESCRIPTION>
+		<POSITION>
+			<X>1929.067383</X>
+			<Z>-448.634796</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132631</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (3)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (3)</DESCRIPTION>
+		<POSITION>
+			<X>1941.476440</X>
+			<Z>-455.134827</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132632</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (4)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (4)</DESCRIPTION>
+		<POSITION>
+			<X>1926.703735</X>
+			<Z>-458.680267</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132633</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (5)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (5)</DESCRIPTION>
+		<POSITION>
+			<X>1946.203735</X>
+			<Z>-455.134827</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132634</ID>
+		<NAME>[fx_med10] -- FX_FireFlies_10m - 04 count</NAME>
+		<TYPE_ID>424</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fx_med10] -- FX_FireFlies_10m - 04 count</DESCRIPTION>
+		<POSITION>
+			<X>1849.232178</X>
+			<Z>-442.128479</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132635</ID>
+		<NAME>[fx_med1] -- FX_Moths_1m - 03 Count</NAME>
+		<TYPE_ID>429</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fx_med1] -- FX_Moths_1m - 03 Count</DESCRIPTION>
+		<POSITION>
+			<X>1779.476074</X>
+			<Y>8.821274</Y>
+			<Z>-255.612106</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132636</ID>
+		<NAME>[fxflshr3] -- fx Red Flashing Light - Sine Slow</NAME>
+		<TYPE_ID>272</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxflshr3] -- fx Red Flashing Light - Sine Slow</DESCRIPTION>
+		<POSITION>
+			<X>1880.942383</X>
+			<Y>0.956985</Y>
+			<Z>-277.966187</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132637</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Medium</NAME>
+		<TYPE_ID>460</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Medium</DESCRIPTION>
+		<POSITION>
+			<X>1988.969482</X>
+			<Z>-279.286346</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132639</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (6)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (6)</DESCRIPTION>
+		<POSITION>
+			<X>1918.742188</X>
+			<Z>-427.239594</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132640</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (7)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (7)</DESCRIPTION>
+		<POSITION>
+			<X>1916.236938</X>
+			<Z>-415.965881</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132641</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (8)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (8)</DESCRIPTION>
+		<POSITION>
+			<X>1910.391235</X>
+			<Z>-422.646606</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132642</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (9)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (9)</DESCRIPTION>
+		<POSITION>
+			<X>1914.566650</X>
+			<Z>-440.601013</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132643</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (10)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (10)</DESCRIPTION>
+		<POSITION>
+			<X>1913.731567</X>
+			<Z>-456.885254</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132644</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (11)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (11)</DESCRIPTION>
+		<POSITION>
+			<X>1933.773804</X>
+			<Z>-420.976410</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132645</ID>
+		<NAME>[lndmine1] -- All Un-marked Land Mine Section (12)</NAME>
+		<TYPE_ID>1896</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[lndmine1] -- All Un-marked Land Mine Section (12)</DESCRIPTION>
+		<POSITION>
+			<X>1945.464966</X>
+			<Z>-427.657135</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132646</ID>
+		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence</NAME>
+		<TYPE_ID>2137</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence</DESCRIPTION>
+		<POSITION>
+			<X>1956.738647</X>
+			<Z>-464.401031</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132647</ID>
+		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (1)</NAME>
+		<TYPE_ID>2137</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (1)</DESCRIPTION>
+		<POSITION>
+			<X>1904.963135</X>
+			<Z>-467.323853</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132648</ID>
+		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (2)</NAME>
+		<TYPE_ID>2137</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (2)</DESCRIPTION>
+		<POSITION>
+			<X>1903.292969</X>
+			<Z>-408.867645</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132649</ID>
+		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (3)</NAME>
+		<TYPE_ID>2137</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (3)</DESCRIPTION>
+		<POSITION>
+			<X>1922.082520</X>
+			<Z>-405.944824</Z>
+			<THETA>1.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132650</ID>
+		<NAME>[Wwall2] -- Wooden Wall Piece 1</NAME>
+		<TYPE_ID>2277</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Wwall2] -- Wooden Wall Piece 1</DESCRIPTION>
+		<POSITION>
+			<X>1953.603760</X>
+			<Y>-1.014420</Y>
+			<Z>-421.122223</Z>
+			<THETA>33.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132652</ID>
+		<NAME>[Wwall2] -- Wooden Wall Piece 1 (1)</NAME>
+		<TYPE_ID>2277</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Wwall2] -- Wooden Wall Piece 1 (1)</DESCRIPTION>
+		<POSITION>
+			<X>1959.398804</X>
+			<Y>1.307800</Y>
+			<Z>-422.430054</Z>
+			<THETA>121.835793</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132653</ID>
+		<NAME>[Wwall2] -- Wooden Wall Piece 1 (2)</NAME>
+		<TYPE_ID>2277</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Wwall2] -- Wooden Wall Piece 1 (2)</DESCRIPTION>
+		<POSITION>
+			<X>1953.810669</X>
+			<Y>1.631729</Y>
+			<Z>-414.216461</Z>
+			<THETA>-38.999996</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132654</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light</DESCRIPTION>
+		<POSITION>
+			<X>1889.193848</X>
+			<Z>-364.967224</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132655</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (1)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (1)</DESCRIPTION>
+		<POSITION>
+			<X>1892.416138</X>
+			<Z>-267.655426</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132656</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (2)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (2)</DESCRIPTION>
+		<POSITION>
+			<X>1790.593262</X>
+			<Z>-369.478363</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132657</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (3)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (3)</DESCRIPTION>
+		<POSITION>
+			<X>1789.948730</X>
+			<Z>-271.522125</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132658</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (4)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (4)</DESCRIPTION>
+		<POSITION>
+			<X>1891.771729</X>
+			<Z>-175.499222</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132659</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (5)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (5)</DESCRIPTION>
+		<POSITION>
+			<X>1790.593262</X>
+			<Z>-172.276978</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132660</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (6)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (6)</DESCRIPTION>
+		<POSITION>
+			<X>1692.701294</X>
+			<Z>-349.357819</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132661</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (7)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (7)</DESCRIPTION>
+		<POSITION>
+			<X>1688.290283</X>
+			<Z>-251.213348</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132662</ID>
+		<NAME>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (8)</NAME>
+		<TYPE_ID>459</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fxmed100] -- FX_fogmist_volume_100x100x20m_Light (8)</DESCRIPTION>
+		<POSITION>
+			<X>1776.510010</X>
+			<Z>-78.082085</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132663</ID>
+		<NAME>[fx_med20] -- FX_fogmist_groundlayer_20x20x1m_Light</NAME>
+		<TYPE_ID>439</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fx_med20] -- FX_fogmist_groundlayer_20x20x1m_Light</DESCRIPTION>
+		<POSITION>
+			<X>1344.531738</X>
+			<Z>-739.383545</Z>
+			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132664</ID>
+		<NAME>[fx_med] -- Effect_LowSmoke- Med</NAME>
+		<TYPE_ID>407</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[fx_med] -- Effect_LowSmoke- Med</DESCRIPTION>
+		<POSITION>
+			<X>1348.941284</X>
+			<Z>-746.912109</Z>
+			<THETA>-88.999992</THETA>
 		</POSITION>
 	</STATIC>
 	<VEHICLE>
