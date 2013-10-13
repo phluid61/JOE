@@ -1800,20 +1800,20 @@
 		<WATER_LEVEL>12.000000</WATER_LEVEL>
 		<FOG_DISTANCE>800.000000</FOG_DISTANCE>
 		<FOG_TYPE>3</FOG_TYPE>
-		<FOG_COLOR>E1016</FOG_COLOR>
+		<FOG_COLOR>50565E</FOG_COLOR>
 		<SKY_HEIGHT>135.000000</SKY_HEIGHT>
 		<SKY_SPEED>0.234375</SKY_SPEED>
-		<SKYFOG_COLOR>C0E16</SKYFOG_COLOR>
-		<TIME_OF_DAY>30000</TIME_OF_DAY>
+		<SKYFOG_COLOR>505660</SKYFOG_COLOR>
+		<TIME_OF_DAY>170000</TIME_OF_DAY>
 		<TIME_OF_DAY_RATE>0</TIME_OF_DAY_RATE>
 	</TERRAIN>
 	<GUI_VIEW>
 		<CAMERA>
 			<INDEX>0</INDEX>
 			<POSITION>
-				<X>57.006363</X>
-				<Y>-739.276001</Y>
-				<Z>-1352.920685</Z>
+				<X>153.241104</X>
+				<Y>-930.781265</Y>
+				<Z>-1454.677979</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>0</MODE>
@@ -1823,11 +1823,11 @@
 		<CAMERA>
 			<INDEX>1</INDEX>
 			<POSITION>
-				<X>16.756042</X>
-				<Y>-742.383713</Y>
-				<Z>-1350.072800</Z>
-				<PHI>-25.000032</PHI>
-				<THETA>164.999972</THETA>
+				<X>36.157700</X>
+				<Y>-829.274734</Y>
+				<Z>-1436.335480</Z>
+				<PHI>-25.000033</PHI>
+				<THETA>112.999971</THETA>
 			</POSITION>
 			<TYPE>1</TYPE>
 			<MODE>6</MODE>
@@ -1837,9 +1837,9 @@
 		<CAMERA>
 			<INDEX>2</INDEX>
 			<POSITION>
-				<X>57.006363</X>
-				<Y>-739.276001</Y>
-				<Z>-1352.920685</Z>
+				<X>153.241104</X>
+				<Y>-930.781265</Y>
+				<Z>-1454.677979</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>1</MODE>
@@ -1849,9 +1849,9 @@
 		<CAMERA>
 			<INDEX>3</INDEX>
 			<POSITION>
-				<X>57.006363</X>
-				<Y>-739.276001</Y>
-				<Z>-1352.920685</Z>
+				<X>153.241104</X>
+				<Y>-930.781265</Y>
+				<Z>-1454.677979</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>2</MODE>
@@ -4113,6 +4113,7 @@
 		<DESCRIPTION>[Wwall4] -- Wooden Wall Piece 3 (4)</DESCRIPTION>
 		<POSITION>
 			<X>1384.600708</X>
+			<Y>0.145828</Y>
 			<Z>-870.283752</Z>
 			<THETA>90.000000</THETA>
 		</POSITION>
@@ -4125,6 +4126,7 @@
 		<DESCRIPTION>[Wwall4] -- Wooden Wall Piece 3 (5)</DESCRIPTION>
 		<POSITION>
 			<X>1392.362305</X>
+			<Y>0.145828</Y>
 			<Z>-868.856323</Z>
 			<THETA>111.000000</THETA>
 		</POSITION>
@@ -4137,7 +4139,7 @@
 		<DESCRIPTION>[Wwall4] -- Wooden Wall Piece 3 (6)</DESCRIPTION>
 		<POSITION>
 			<X>1397.675903</X>
-			<Y>-0.179932</Y>
+			<Y>-0.034103</Y>
 			<Z>-863.673035</Z>
 			<THETA>158.000000</THETA>
 		</POSITION>
@@ -6877,10 +6879,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132602</ID>
-		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<NAME>[WdPlank] -- Straight wooden plank (9)</NAME>
 		<TYPE_ID>1459</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank (9)</DESCRIPTION>
 		<POSITION>
 			<X>1203.834717</X>
 			<Y>7.538040</Y>
@@ -6891,10 +6893,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132603</ID>
-		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<NAME>[WdPlank] -- Straight wooden plank (9)</NAME>
 		<TYPE_ID>1459</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank (9)</DESCRIPTION>
 		<POSITION>
 			<X>1195.986206</X>
 			<Y>7.166595</Y>
@@ -6905,10 +6907,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132604</ID>
-		<NAME>[WdPlank] -- Straight wooden plank  (9)</NAME>
+		<NAME>[WdPlank] -- Straight wooden plank (9)</NAME>
 		<TYPE_ID>1459</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[WdPlank] -- Straight wooden plank  (9)</DESCRIPTION>
+		<DESCRIPTION>[WdPlank] -- Straight wooden plank (9)</DESCRIPTION>
 		<POSITION>
 			<X>1198.602295</X>
 			<Y>7.254166</Y>
@@ -7344,10 +7346,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132646</ID>
-		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence</NAME>
+		<NAME>[Bfence1P] -- Bfence1P End pole for chain link fence</NAME>
 		<TYPE_ID>2137</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence</DESCRIPTION>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P End pole for chain link fence</DESCRIPTION>
 		<POSITION>
 			<X>1956.738647</X>
 			<Z>-464.401031</Z>
@@ -7356,10 +7358,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132647</ID>
-		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (1)</NAME>
+		<NAME>[Bfence1P] -- Bfence1P End pole for chain link fence (1)</NAME>
 		<TYPE_ID>2137</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (1)</DESCRIPTION>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P End pole for chain link fence (1)</DESCRIPTION>
 		<POSITION>
 			<X>1904.963135</X>
 			<Z>-467.323853</Z>
@@ -7368,10 +7370,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132648</ID>
-		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (2)</NAME>
+		<NAME>[Bfence1P] -- Bfence1P End pole for chain link fence (2)</NAME>
 		<TYPE_ID>2137</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (2)</DESCRIPTION>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P End pole for chain link fence (2)</DESCRIPTION>
 		<POSITION>
 			<X>1903.292969</X>
 			<Z>-408.867645</Z>
@@ -7380,10 +7382,10 @@
 	</STATIC>
 	<STATIC>
 		<ID>132649</ID>
-		<NAME>[Bfence1P] -- Bfence1P   End pole for chain link fence (3)</NAME>
+		<NAME>[Bfence1P] -- Bfence1P End pole for chain link fence (3)</NAME>
 		<TYPE_ID>2137</TYPE_ID>
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Bfence1P] -- Bfence1P   End pole for chain link fence (3)</DESCRIPTION>
+		<DESCRIPTION>[Bfence1P] -- Bfence1P End pole for chain link fence (3)</DESCRIPTION>
 		<POSITION>
 			<X>1922.082520</X>
 			<Z>-405.944824</Z>
@@ -7535,6 +7537,168 @@
 			<X>1776.510010</X>
 			<Z>-78.082085</Z>
 			<THETA>-88.999992</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132663</ID>
+		<NAME>[J_bgrp4] -- Jungle Bush Group 4</NAME>
+		<TYPE_ID>378</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_bgrp4] -- Jungle Bush Group 4</DESCRIPTION>
+		<POSITION>
+			<X>1411.280029</X>
+			<Z>-838.467651</Z>
+			<THETA>10.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132664</ID>
+		<NAME>[J_bsh1] -- Jungle Bush 1 (4)</NAME>
+		<TYPE_ID>2229</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_bsh1] -- Jungle Bush 1 (4)</DESCRIPTION>
+		<POSITION>
+			<X>1413.678833</X>
+			<Z>-862.456177</Z>
+			<THETA>10.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132665</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1159.954346</X>
+			<Y>1.219955</Y>
+			<Z>-681.021729</Z>
+			<THETA>-111.930580</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132666</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1110.712769</X>
+			<Y>0.976303</Y>
+			<Z>-655.324951</Z>
+			<THETA>-111.930580</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132667</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1100.309448</X>
+			<Y>0.976303</Y>
+			<Z>-689.440430</Z>
+			<THETA>30.134180</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132668</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1137.833496</X>
+			<Y>-0.189636</Y>
+			<Z>-826.228333</Z>
+			<THETA>60.134178</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132669</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1118.553467</X>
+			<Y>0.976303</Y>
+			<Z>-736.984009</Z>
+			<THETA>30.134180</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132670</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (33)</DESCRIPTION>
+		<POSITION>
+			<X>1158.916260</X>
+			<Y>-1.159424</Y>
+			<Z>-735.329041</Z>
+			<THETA>-149.859558</THETA>
+			<OMEGA>-15.000000</OMEGA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132671</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</DESCRIPTION>
+		<POSITION>
+			<X>1326.270508</X>
+			<Y>-7.059952</Y>
+			<Z>-945.733276</Z>
+			<PHI>30.000000</PHI>
+			<THETA>-111.714493</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132672</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</DESCRIPTION>
+		<POSITION>
+			<X>1357.005371</X>
+			<Y>1.476974</Y>
+			<Z>-963.679382</Z>
+			<PHI>30.000000</PHI>
+			<THETA>-19.892534</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132673</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (39)</DESCRIPTION>
+		<POSITION>
+			<X>1384.347656</X>
+			<Y>-5.169693</Y>
+			<Z>-970.142090</Z>
+			<PHI>20.000000</PHI>
+			<THETA>-19.746407</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>132674</ID>
+		<NAME>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (42)</NAME>
+		<TYPE_ID>2269</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_tgrp2] -- Jungle Tree Group 2, tilted palms (42)</DESCRIPTION>
+		<POSITION>
+			<X>1469.648926</X>
+			<Z>-963.104858</Z>
+			<THETA>96.000000</THETA>
 		</POSITION>
 	</STATIC>
 	<VEHICLE>
