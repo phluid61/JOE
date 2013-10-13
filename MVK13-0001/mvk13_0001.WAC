@@ -1,5 +1,12 @@
 
+if never() then
+  hidessn(132528)
+endif
 if ssndead(132137) and never() then
+  showssn(132528)
+endif
+if never() and chain(1) then
+  farflash()
   killssn(132528)
   removessn(132397)
   removessn(132636)
