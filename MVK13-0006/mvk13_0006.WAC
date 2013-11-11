@@ -1,0 +1,5 @@
+if never() then
+  tod(02:00)
+  overcast(100)
+  rain(100)
+endif
