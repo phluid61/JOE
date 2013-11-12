@@ -13,9 +13,9 @@
 		<UNSEL_COLOR>FF00</UNSEL_COLOR>
 		<DESCRIPTION>[Fsldr01] -- Friendly Soldier #1 with M4</DESCRIPTION>
 		<POSITION>
-			<X>-903.755005</X>
-			<Y>7.147339</Y>
-			<Z>211.248550</Z>
+			<X>-901.521484</X>
+			<Y>4.116669</Y>
+			<Z>208.280899</Z>
 		</POSITION>
 		<TEAM>2</TEAM>
 		<ACCURACY1>85</ACCURACY1>
@@ -32,9 +32,9 @@
 		<UNSEL_COLOR>FF00</UNSEL_COLOR>
 		<DESCRIPTION>[Fsldr01] -- Friendly Soldier #1 with M4 (1)</DESCRIPTION>
 		<POSITION>
-			<X>-912.717834</X>
-			<Y>7.147339</Y>
-			<Z>211.096634</Z>
+			<X>-911.276001</X>
+			<Y>6.552475</Y>
+			<Z>208.138000</Z>
 		</POSITION>
 		<TEAM>2</TEAM>
 		<ACCURACY1>85</ACCURACY1>
@@ -51,9 +51,9 @@
 		<UNSEL_COLOR>FF00</UNSEL_COLOR>
 		<DESCRIPTION>[Fsldr01] -- Friendly Soldier #1 with M4 (2)</DESCRIPTION>
 		<POSITION>
-			<X>-859.244629</X>
-			<Y>7.147339</Y>
-			<Z>210.792816</Z>
+			<X>-858.954895</X>
+			<Y>6.526169</Y>
+			<Z>208.034515</Z>
 		</POSITION>
 		<TEAM>2</TEAM>
 		<ACCURACY1>85</ACCURACY1>
@@ -71,7 +71,7 @@
 		<DESCRIPTION>[Fsldr01] -- Friendly Soldier #1 with M4 (3)</DESCRIPTION>
 		<POSITION>
 			<X>-870.941956</X>
-			<Y>4.226837</Y>
+			<Y>4.039032</Y>
 			<Z>207.602646</Z>
 		</POSITION>
 		<TEAM>2</TEAM>
@@ -89,9 +89,9 @@
 		<UNSEL_COLOR>FF00</UNSEL_COLOR>
 		<DESCRIPTION>[Fsldr01] -- Friendly Soldier #1 with M4 (4)</DESCRIPTION>
 		<POSITION>
-			<X>-884.017090</X>
-			<Y>15.011490</Y>
-			<Z>185.568298</Z>
+			<X>-884.751404</X>
+			<Y>8.066956</Y>
+			<Z>183.309174</Z>
 		</POSITION>
 		<TEAM>2</TEAM>
 		<ACCURACY1>80</ACCURACY1>
@@ -118,23 +118,23 @@
 		<CAMERA>
 			<INDEX>0</INDEX>
 			<POSITION>
-				<X>195.593857</X>
-				<Y>279.026337</Y>
-				<Z>893.009247</Z>
+				<X>108.469208</X>
+				<Y>228.276474</Y>
+				<Z>881.341324</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
-			<MODE>4</MODE>
+			<MODE>0</MODE>
 			<ATTRIBUTES>MAINTAIN_FPS GROUP_ROTATE </ATTRIBUTES>
 			<LOD>1</LOD>
 		</CAMERA>
 		<CAMERA>
 			<INDEX>1</INDEX>
 			<POSITION>
-				<X>72.128830</X>
-				<Y>323.841049</Y>
-				<Z>911.060242</Z>
-				<PHI>-25.000014</PHI>
-				<THETA>-165.000014</THETA>
+				<X>51.051773</X>
+				<Y>295.769165</Y>
+				<Z>901.708420</Z>
+				<PHI>-10.000017</PHI>
+				<THETA>-163.000017</THETA>
 			</POSITION>
 			<TYPE>1</TYPE>
 			<MODE>6</MODE>
@@ -144,9 +144,9 @@
 		<CAMERA>
 			<INDEX>2</INDEX>
 			<POSITION>
-				<X>195.593857</X>
-				<Y>279.026337</Y>
-				<Z>893.009247</Z>
+				<X>108.469208</X>
+				<Y>228.276474</Y>
+				<Z>881.341324</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>1</MODE>
@@ -156,9 +156,9 @@
 		<CAMERA>
 			<INDEX>3</INDEX>
 			<POSITION>
-				<X>195.593857</X>
-				<Y>279.026337</Y>
-				<Z>893.009247</Z>
+				<X>108.469208</X>
+				<Y>228.276474</Y>
+				<Z>881.341324</Z>
 			</POSITION>
 			<TYPE>0</TYPE>
 			<MODE>2</MODE>
@@ -217,11 +217,8 @@
 		<TILE>-884.000000 198.000000 0 48</TILE>
 		<TILE>-900.000000 198.000000 0 48</TILE>
 		<TILE>-916.000000 198.000000 0 48</TILE>
-		<TILE>-892.000000 201.000000 0 32</TILE>
-		<TILE>-887.000000 198.000000 7 32</TILE>
-		<TILE>-888.000000 198.000000 5 32</TILE>
+		<TILE>-886.000000 202.000000 0 32</TILE>
 		<TILE>-899.000000 214.000000 4 32</TILE>
-		<TILE>-886.000000 214.000000 7 32</TILE>
 		<TILE>-892.000000 228.000000 0 25</TILE>
 		<TILE>-857.000000 241.000000 0 48</TILE>
 		<TILE>-857.000000 257.000000 0 48</TILE>
@@ -282,6 +279,11 @@
 		<TILE>-888.000000 275.000000 4 32</TILE>
 		<TILE>-888.000000 250.000000 4 32</TILE>
 		<TILE>-888.000000 234.000000 4 32</TILE>
+		<TILE>-899.000000 182.000000 4 32</TILE>
+		<TILE>-899.000000 197.000000 4 32</TILE>
+		<TILE>-885.000000 214.000000 7 32</TILE>
+		<TILE>-885.000000 198.000000 7 32</TILE>
+		<TILE>-885.000000 185.000000 7 32</TILE>
 	</TERRAIN_TILES>
 	<MARKER>
 		<ID>201969</ID>
@@ -1207,9 +1209,10 @@
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
 		<DESCRIPTION>[JHut2] -- Jungle Hut 2</DESCRIPTION>
 		<POSITION>
-			<X>-867.652466</X>
+			<X>-867.653564</X>
 			<Y>-2.402008</Y>
-			<Z>253.488068</Z>
+			<Z>253.484818</Z>
+			<THETA>0.081083</THETA>
 		</POSITION>
 	</STATIC>
 	<STATIC>
@@ -1225,228 +1228,6 @@
 		</POSITION>
 	</STATIC>
 	<STATIC>
-		<ID>136513</ID>
-		<NAME>[J_bsh3] -- Jungle Bush 3</NAME>
-		<TYPE_ID>2231</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[J_bsh3] -- Jungle Bush 3</DESCRIPTION>
-		<POSITION>
-			<X>-867.823853</X>
-			<Z>249.503433</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136514</ID>
-		<NAME>[J_bsh3] -- Jungle Bush 3 (1)</NAME>
-		<TYPE_ID>2231</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[J_bsh3] -- Jungle Bush 3 (1)</DESCRIPTION>
-		<POSITION>
-			<X>-867.047546</X>
-			<Z>250.861954</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136515</ID>
-		<NAME>[J_bsh3] -- Jungle Bush 3 (2)</NAME>
-		<TYPE_ID>2231</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[J_bsh3] -- Jungle Bush 3 (2)</DESCRIPTION>
-		<POSITION>
-			<X>-865.106812</X>
-			<Z>249.503433</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136516</ID>
-		<NAME>[J_bsh3] -- Jungle Bush 3 (3)</NAME>
-		<TYPE_ID>2231</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[J_bsh3] -- Jungle Bush 3 (3)</DESCRIPTION>
-		<POSITION>
-			<X>-865.042114</X>
-			<Z>250.926651</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136519</ID>
-		<NAME>[Ijava05] -- Indonesian fort piece 5</NAME>
-		<TYPE_ID>2021</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava05] -- Indonesian fort piece 5</DESCRIPTION>
-		<POSITION>
-			<X>-884.000000</X>
-			<Y>7.864578</Y>
-			<Z>182.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136520</ID>
-		<NAME>[Ijava02] -- Indonesian fort piece 2</NAME>
-		<TYPE_ID>2018</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava02] -- Indonesian fort piece 2</DESCRIPTION>
-		<POSITION>
-			<X>-884.003906</X>
-			<Y>-1.519165</Y>
-			<Z>158.000000</Z>
-			<THETA>180.000000</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136523</ID>
-		<NAME>[Ijava01] -- Indonesian fort piece 1</NAME>
-		<TYPE_ID>2017</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava01] -- Indonesian fort piece 1</DESCRIPTION>
-		<POSITION>
-			<X>-860.000000</X>
-			<Y>2.428101</Y>
-			<Z>158.000000</Z>
-			<THETA>-89.861565</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136524</ID>
-		<NAME>[Ijava01] -- Indonesian fort piece 1</NAME>
-		<TYPE_ID>2017</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava01] -- Indonesian fort piece 1</DESCRIPTION>
-		<POSITION>
-			<X>-908.003906</X>
-			<Y>2.428101</Y>
-			<Z>158.000000</Z>
-			<THETA>-179.956680</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136526</ID>
-		<NAME>[Ijava01] -- Indonesian fort piece 1</NAME>
-		<TYPE_ID>2017</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava01] -- Indonesian fort piece 1</DESCRIPTION>
-		<POSITION>
-			<X>-860.000000</X>
-			<Y>2.428101</Y>
-			<Z>206.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136527</ID>
-		<NAME>[Ijava01] -- Indonesian fort piece 1</NAME>
-		<TYPE_ID>2017</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava01] -- Indonesian fort piece 1</DESCRIPTION>
-		<POSITION>
-			<X>-908.000000</X>
-			<Y>2.428101</Y>
-			<Z>206.000000</Z>
-			<THETA>90.028801</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136529</ID>
-		<NAME>[Ijava04] -- Indonesian fort piece 4</NAME>
-		<TYPE_ID>2020</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava04] -- Indonesian fort piece 4</DESCRIPTION>
-		<POSITION>
-			<X>-908.000000</X>
-			<Y>-1.519165</Y>
-			<Z>173.000000</Z>
-			<THETA>90.164268</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136530</ID>
-		<NAME>[Ijava04] -- Indonesian fort piece 4</NAME>
-		<TYPE_ID>2020</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava04] -- Indonesian fort piece 4</DESCRIPTION>
-		<POSITION>
-			<X>-908.000000</X>
-			<Y>-1.519165</Y>
-			<Z>191.000000</Z>
-			<THETA>90.164268</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136531</ID>
-		<NAME>[Ijava04] -- Indonesian fort piece 4</NAME>
-		<TYPE_ID>2020</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava04] -- Indonesian fort piece 4</DESCRIPTION>
-		<POSITION>
-			<X>-859.994507</X>
-			<Y>-1.523071</Y>
-			<Z>173.000000</Z>
-			<THETA>-89.962280</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136532</ID>
-		<NAME>[Ijava04] -- Indonesian fort piece 4</NAME>
-		<TYPE_ID>2020</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Ijava04] -- Indonesian fort piece 4</DESCRIPTION>
-		<POSITION>
-			<X>-860.006348</X>
-			<Y>-1.523071</Y>
-			<Z>191.000000</Z>
-			<THETA>-89.962280</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136534</ID>
-		<NAME>[Imwall03] -- Ruined wall, modular #3</NAME>
-		<TYPE_ID>158</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3</DESCRIPTION>
-		<POSITION>
-			<X>-900.000000</X>
-			<Y>3.056915</Y>
-			<Z>208.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136535</ID>
-		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
-		<TYPE_ID>158</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
-		<POSITION>
-			<X>-900.000000</X>
-			<Y>3.056915</Y>
-			<Z>204.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136536</ID>
-		<NAME>[Imwall03] -- Ruined wall, modular #3</NAME>
-		<TYPE_ID>158</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3</DESCRIPTION>
-		<POSITION>
-			<X>-868.000000</X>
-			<Y>3.056915</Y>
-			<Z>208.000000</Z>
-			<THETA>180.000000</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136537</ID>
-		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
-		<TYPE_ID>158</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
-		<POSITION>
-			<X>-868.000000</X>
-			<Y>3.056915</Y>
-			<Z>204.000000</Z>
-			<THETA>180.000000</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
 		<ID>136538</ID>
 		<NAME>[Imwall04] -- Ruined wall, modular #4</NAME>
 		<TYPE_ID>159</TYPE_ID>
@@ -1454,7 +1235,6 @@
 		<DESCRIPTION>[Imwall04] -- Ruined wall, modular #4</DESCRIPTION>
 		<POSITION>
 			<X>-884.000000</X>
-			<Y>0.259094</Y>
 			<Z>208.000000</Z>
 		</POSITION>
 	</STATIC>
@@ -1465,8 +1245,7 @@
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
 		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7</DESCRIPTION>
 		<POSITION>
-			<X>-872.000000</X>
-			<Y>0.009094</Y>
+			<X>-874.000000</X>
 			<Z>208.000000</Z>
 			<THETA>180.000000</THETA>
 		</POSITION>
@@ -1478,34 +1257,9 @@
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
 		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (4)</DESCRIPTION>
 		<POSITION>
-			<X>-875.996094</X>
-			<Y>0.009094</Y>
+			<X>-878.000000</X>
 			<Z>204.000000</Z>
 			<THETA>180.000000</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136544</ID>
-		<NAME>[Imwall07] -- Ruined T intersection, modular #7</NAME>
-		<TYPE_ID>177</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7</DESCRIPTION>
-		<POSITION>
-			<X>-872.000000</X>
-			<Y>0.009094</Y>
-			<Z>204.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136545</ID>
-		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (2)</NAME>
-		<TYPE_ID>177</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (2)</DESCRIPTION>
-		<POSITION>
-			<X>-896.000000</X>
-			<Y>0.009094</Y>
-			<Z>204.000000</Z>
 		</POSITION>
 	</STATIC>
 	<STATIC>
@@ -1515,58 +1269,9 @@
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
 		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (3)</DESCRIPTION>
 		<POSITION>
-			<X>-896.000000</X>
-			<Y>0.009094</Y>
+			<X>-894.000000</X>
 			<Z>208.000000</Z>
 			<THETA>180.000000</THETA>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136547</ID>
-		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
-		<TYPE_ID>73</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
-		<POSITION>
-			<X>-893.000000</X>
-			<Y>0.009094</Y>
-			<Z>208.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136548</ID>
-		<NAME>[Imwall08] -- Ruined wall, modular #8 (1)</NAME>
-		<TYPE_ID>73</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8 (1)</DESCRIPTION>
-		<POSITION>
-			<X>-892.000000</X>
-			<Y>0.009094</Y>
-			<Z>208.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136549</ID>
-		<NAME>[Imwall08] -- Ruined wall, modular #8 (2)</NAME>
-		<TYPE_ID>73</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8 (2)</DESCRIPTION>
-		<POSITION>
-			<X>-875.000000</X>
-			<Y>0.009094</Y>
-			<Z>208.000000</Z>
-		</POSITION>
-	</STATIC>
-	<STATIC>
-		<ID>136550</ID>
-		<NAME>[Imwall08] -- Ruined wall, modular #8 (3)</NAME>
-		<TYPE_ID>73</TYPE_ID>
-		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
-		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8 (3)</DESCRIPTION>
-		<POSITION>
-			<X>-874.000000</X>
-			<Y>0.009094</Y>
-			<Z>208.000000</Z>
 		</POSITION>
 	</STATIC>
 	<STATIC>
@@ -1577,7 +1282,6 @@
 		<DESCRIPTION>[Imwall01] -- Ruined wall, modular #1</DESCRIPTION>
 		<POSITION>
 			<X>-890.000000</X>
-			<Y>0.009094</Y>
 			<Z>208.000000</Z>
 		</POSITION>
 	</STATIC>
@@ -1589,7 +1293,6 @@
 		<DESCRIPTION>[Imwall01] -- Ruined wall, modular #1 (1)</DESCRIPTION>
 		<POSITION>
 			<X>-878.000000</X>
-			<Y>0.009094</Y>
 			<Z>208.000000</Z>
 			<THETA>180.000000</THETA>
 		</POSITION>
@@ -1601,8 +1304,7 @@
 		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
 		<DESCRIPTION>[Imwall06] -- Ruined wall end cap, modular #6</DESCRIPTION>
 		<POSITION>
-			<X>-892.000000</X>
-			<Y>0.009094</Y>
+			<X>-890.000000</X>
 			<Z>204.000000</Z>
 			<THETA>180.000000</THETA>
 		</POSITION>
@@ -3693,6 +3395,722 @@
 			<X>-1113.197876</X>
 			<Z>871.663757</Z>
 			<THETA>109.000023</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136737</ID>
+		<NAME>[I_lfpA] -- Expanded Ruin LFP #1 NON-LFP</NAME>
+		<TYPE_ID>388</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[I_lfpA] -- Expanded Ruin LFP #1 NON-LFP</DESCRIPTION>
+		<POSITION>
+			<X>-884.000000</X>
+			<Y>0.857468</Y>
+			<Z>182.000000</Z>
+			<THETA>90.121956</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136739</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5</DESCRIPTION>
+		<POSITION>
+			<X>-894.000000</X>
+			<Z>204.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136740</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2</DESCRIPTION>
+		<POSITION>
+			<X>-900.000000</X>
+			<Z>208.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136742</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2</DESCRIPTION>
+		<POSITION>
+			<X>-869.000000</X>
+			<Z>208.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136743</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (1)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-874.000000</X>
+			<Z>204.000000</Z>
+			<THETA>90.121956</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136747</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-864.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136748</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-906.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136749</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (2)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-860.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136750</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (2)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>204.000000</Z>
+			<THETA>90.121956</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136751</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (2)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-859.000000</X>
+			<Y>2.500000</Y>
+			<Z>204.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136752</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (2)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136753</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>198.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136754</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>190.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136755</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>182.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136756</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>174.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136757</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>166.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136759</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (4)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (4)</DESCRIPTION>
+		<POSITION>
+			<X>-855.996094</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+			<THETA>90.121956</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136760</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (5)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (5)</DESCRIPTION>
+		<POSITION>
+			<X>-860.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136761</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (4)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (4)</DESCRIPTION>
+		<POSITION>
+			<X>-856.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+			<THETA>90.121956</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136763</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (7)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (7)</DESCRIPTION>
+		<POSITION>
+			<X>-866.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136764</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (7)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (7)</DESCRIPTION>
+		<POSITION>
+			<X>-876.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136766</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (7)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (7)</DESCRIPTION>
+		<POSITION>
+			<X>-893.000000</X>
+			<Y>2.496094</Y>
+			<Z>156.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136767</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (7)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (7)</DESCRIPTION>
+		<POSITION>
+			<X>-903.000000</X>
+			<Y>2.496094</Y>
+			<Z>156.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136769</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>198.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136770</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>182.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136771</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>166.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136772</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>174.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136773</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2 (2)</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>190.000000</Z>
+			<THETA>-89.756088</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136774</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (2)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-909.000000</X>
+			<Y>2.500000</Y>
+			<Z>204.000000</Z>
+			<THETA>90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136775</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (2)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+			<THETA>-90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136777</ID>
+		<NAME>[Imwall05] -- Ruined wall, modular #5 (4)</NAME>
+		<TYPE_ID>170</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall05] -- Ruined wall, modular #5 (4)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136778</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (2)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-909.000000</X>
+			<Y>2.500000</Y>
+			<Z>208.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136779</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (2)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>204.000000</Z>
+			<THETA>-90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136780</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (4)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (4)</DESCRIPTION>
+		<POSITION>
+			<X>-913.000000</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+			<THETA>-90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136781</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (5)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (5)</DESCRIPTION>
+		<POSITION>
+			<X>-909.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136782</ID>
+		<NAME>[Imwall01] -- Ruined wall, modular #1 (2)</NAME>
+		<TYPE_ID>156</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall01] -- Ruined wall, modular #1 (2)</DESCRIPTION>
+		<POSITION>
+			<X>-882.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136783</ID>
+		<NAME>[Imwall01] -- Ruined wall, modular #1 (3)</NAME>
+		<TYPE_ID>156</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall01] -- Ruined wall, modular #1 (3)</DESCRIPTION>
+		<POSITION>
+			<X>-887.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136784</ID>
+		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
+		<TYPE_ID>73</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
+		<POSITION>
+			<X>-884.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136785</ID>
+		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
+		<TYPE_ID>73</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
+		<POSITION>
+			<X>-898.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136786</ID>
+		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
+		<TYPE_ID>73</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
+		<POSITION>
+			<X>-897.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136787</ID>
+		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
+		<TYPE_ID>73</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
+		<POSITION>
+			<X>-871.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136788</ID>
+		<NAME>[Imwall08] -- Ruined wall, modular #8</NAME>
+		<TYPE_ID>73</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall08] -- Ruined wall, modular #8</DESCRIPTION>
+		<POSITION>
+			<X>-870.000000</X>
+			<Y>2.500000</Y>
+			<Z>156.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136789</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (10)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (10)</DESCRIPTION>
+		<POSITION>
+			<X>-909.000000</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136790</ID>
+		<NAME>[Imwall07] -- Ruined T intersection, modular #7 (10)</NAME>
+		<TYPE_ID>177</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall07] -- Ruined T intersection, modular #7 (10)</DESCRIPTION>
+		<POSITION>
+			<X>-860.000000</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136791</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-864.000000</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136792</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-905.000000</X>
+			<Y>2.500000</Y>
+			<Z>160.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136793</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2</DESCRIPTION>
+		<POSITION>
+			<X>-870.000000</X>
+			<Z>160.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136794</ID>
+		<NAME>[Imwall02] -- Ruined wall, modular #2</NAME>
+		<TYPE_ID>157</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall02] -- Ruined wall, modular #2</DESCRIPTION>
+		<POSITION>
+			<X>-899.000000</X>
+			<Z>160.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136795</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-893.000000</X>
+			<Z>160.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136796</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-876.000000</X>
+			<Z>160.000000</Z>
+			<THETA>180.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136797</ID>
+		<NAME>[Imwall03] -- Ruined wall, modular #3 (1)</NAME>
+		<TYPE_ID>158</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[Imwall03] -- Ruined wall, modular #3 (1)</DESCRIPTION>
+		<POSITION>
+			<X>-893.000000</X>
+			<Z>160.000000</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136798</ID>
+		<NAME>[J_bsh6] -- Jungle Bush 6 (4)</NAME>
+		<TYPE_ID>2255</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_bsh6] -- Jungle Bush 6 (4)</DESCRIPTION>
+		<POSITION>
+			<X>-863.980103</X>
+			<Z>250.060501</Z>
+			<THETA>0.081083</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136799</ID>
+		<NAME>[J_bsh6] -- Jungle Bush 6 (5)</NAME>
+		<TYPE_ID>2255</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_bsh6] -- Jungle Bush 6 (5)</DESCRIPTION>
+		<POSITION>
+			<X>-866.372253</X>
+			<Z>250.057480</Z>
+			<THETA>90.000000</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136800</ID>
+		<NAME>[J_bsh6] -- Jungle Bush 6 (6)</NAME>
+		<TYPE_ID>2255</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[J_bsh6] -- Jungle Bush 6 (6)</DESCRIPTION>
+		<POSITION>
+			<X>-868.808228</X>
+			<Z>250.058136</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136801</ID>
+		<NAME>[wcrate5] -- Wooden Crate with Khat destroyable w</NAME>
+		<TYPE_ID>2147</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wcrate5] -- Wooden Crate with Khat destroyable w</DESCRIPTION>
+		<POSITION>
+			<X>-870.478821</X>
+			<Z>259.112335</Z>
+			<THETA>0.021399</THETA>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136803</ID>
+		<NAME>[wcrate5] -- Wooden Crate with Khat destroyable w (1)</NAME>
+		<TYPE_ID>2147</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wcrate5] -- Wooden Crate with Khat destroyable w (1)</DESCRIPTION>
+		<POSITION>
+			<X>-863.861816</X>
+			<Z>247.358353</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136804</ID>
+		<NAME>[wcrate4] -- Wooden Crate with Tarp</NAME>
+		<TYPE_ID>1481</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wcrate4] -- Wooden Crate with Tarp</DESCRIPTION>
+		<POSITION>
+			<X>-866.087341</X>
+			<Z>247.144348</Z>
+		</POSITION>
+	</STATIC>
+	<STATIC>
+		<ID>136805</ID>
+		<NAME>[wcrate5] -- Wooden Crate with Khat destroyable w (2)</NAME>
+		<TYPE_ID>2147</TYPE_ID>
+		<UNSEL_COLOR>7F3F3F9F</UNSEL_COLOR>
+		<DESCRIPTION>[wcrate5] -- Wooden Crate with Khat destroyable w (2)</DESCRIPTION>
+		<POSITION>
+			<X>-869.539795</X>
+			<Z>247.443985</Z>
+			<THETA>90.000000</THETA>
 		</POSITION>
 	</STATIC>
 	<VEHICLE>
